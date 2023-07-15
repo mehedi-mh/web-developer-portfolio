@@ -206,7 +206,7 @@ footer {
 .contact input[type="text"], .contact input[type="email"],
 textarea {
     display: block;
-    margin-bottom: 26px;
+    margin-bottom: 25px;
     padding: 18px 35px;
     color: #757575;
     border-radius: 5px;
